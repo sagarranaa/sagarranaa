@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Rana</h1>
-<h3 align="center">SDE-2 | Python, Node.js, AWS, Docker | AI Agent & Machine Learning & Deep Learning</h3>
+<h3 align="center">SDE-2 | Python, Node.js | AI Agent & Machine Learning & Deep Learning</h3>
 
 - 🌱 I’m currently learning **Ai Agent**
 
