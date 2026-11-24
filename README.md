@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagar Rana</h1>
-<h3 align="center">SDE-2 | Node.js, Python, AWS, Docker | Machine Learning &  AI Agent</h3>
+<h3 align="center">SDE-2 | Python, Node.js, AWS, Docker | AI Agent & Machine Learning</h3>
 
-- 🌱 I’m currently learning **generative ai,machine learning**
+- 🌱 I’m currently learning **Ai Agent**
 
 - 👯 I’m looking to collaborate on **AI Project**
 
 - 👨‍💻 All of my projects are available at [sagarranaa](sagarranaa)
 
-- 💬 Ask me about **react ,node ,postgres, html,css,javascript,mysql ,database,docker,aws ,google cloud**
+- 💬 Ask me about **Ai Agent, llm , Python , Noode , postgres, javascript,mysql ,database,docker,aws ,google cloud**
 
 - 📫 How to reach me **sgamilcom77@gmail.com**
 
